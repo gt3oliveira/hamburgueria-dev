@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f6f7f8;
+}
+
+.buttonCart:hover > svg {
+  @apply animate-bounce
+}
