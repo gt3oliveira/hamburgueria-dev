@@ -1,12 +1,13 @@
 ## Hamburgueria Dev
 
-Este é um simples sistema de pedidos para uma lanchonete, desenvolvido com [Vite](). Os frameworks utilizados para o desenvolvimento foram:
+Este é um simples sistema de pedidos para uma lanchonete, desenvolvido com [Vite](https://vitejs.dev/). 
 
-✔ React
-✔ Typescript
+Os frameworks utilizados para o desenvolvimento foram:
+
+✔ Typescript &nbsp;
 ✔ Tailwind CSS
-&nbsp;
 
+&nbsp;
 ## 👨🏻‍💻 Começando...
 
 Primeiro, execute os seguintes comandos no cmd da sua IDE:
@@ -19,25 +20,26 @@ npm install
 npm run dev
 ```
 
-👍🏻 Execute o projeto no navegador a URL `localhost://5173`
+👍🏻 Execute o projeto no navegador com a URL `localhost://5173`
 
 ---
 ## 💻 Layouts do projeto
 
+&nbsp;
 - Home page
 
 | Desktop | Mobile | 
 |--|--|
 |<img height="297" src="./github/home-desktop.png" /> | <img height="297" src="./github/home-mobile.png" />|
 
-##
+&nbsp;
 - Cart page
 
 | Desktop | Mobile | 
 |--|--|
 |<img height="297" src="./github/cart-desktop.png" /> | <img height="297" src="./github/cart-mobile.png" />|
 
-##
+&nbsp;
 - Home page - Fechado para pedidos
 
 | Desktop | Mobile |
