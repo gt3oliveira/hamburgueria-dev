@@ -38,7 +38,7 @@ npm run dev
 |<img height="297" src="./github/cart-desktop.png" /> | <img height="297" src="./github/cart-mobile.png" />|
 
 ##
-- Home page - Pedido fechado
+- Home page - Fechado para pedidos
 
 | Desktop | Mobile |
 |--|--|
