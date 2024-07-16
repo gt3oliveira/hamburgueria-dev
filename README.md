@@ -23,7 +23,7 @@ npm run dev
 👍🏻 Execute o projeto no navegador com a URL `localhost://5173`
 
 ---
-## 💻 Layouts do projeto
+## 💻/📱 Layouts do projeto
 
 &nbsp;
 - Home page
